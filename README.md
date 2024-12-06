@@ -1,5 +1,3 @@
-# Astro.js Blog Template - AWS and Astro
+# Astro.js Blog Template
 
-```sh
-
-```
+## Build with AWS and Turso
